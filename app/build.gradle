@@ -47,4 +47,7 @@ dependencies {
     kapt "com.github.moxy-community:moxy-compiler:2.1.2"
     implementation "com.github.moxy-community:moxy-ktx:2.1.2"
     implementation "com.github.moxy-community:moxy-androidx:2.1.2"
+
+    implementation 'io.reactivex.rxjava3:rxjava:3.0.3'
+    implementation 'io.reactivex.rxjava3:rxandroid:3.0.0'
 }
